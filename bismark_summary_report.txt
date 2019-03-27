@@ -1,5 +1,5 @@
 File	Total Reads	Aligned Reads	Unaligned Reads	Ambiguously Aligned Reads	No Genomic Sequence	Duplicate Reads (removed)	Unique Reads (remaining)	Total Cs	Methylated CpGs	Unmethylated CpGs	Methylated chgs	Unmethylated chgs	Methylated CHHs	Unmethylated CHHs
-Vell_11m.a_R1.fastq_paired_bismark_bt2_pe.bam	600667	143909	451328	5329	101	21617	122292	3968518	41314	307559	5738	678512	26224	2909171
+Vell_11m.a_R1.fastq_paired_bismark_bt2_pe.bam	600667	73084	525368	2156	59	11002	62082	2018373	21010	156943	2852	344665	13286	1479617
 Vell_11m_R1.fastq_paired_bismark_bt2_pe.bam	517644	223139	285968	8346	191	41973	181166	6582035	69415	533122	13598	1153932	62371	4749597
 Vell_7b.a_R1.fastq_paired_bismark_bt2_pe.bam	443812	190123	246484	7066	139	33078	157045	5597215	57205	462879	10262	976240	44980	4045649
 Vell_7m.a_R1.fastq_paired_bismark_bt2_pe.bam	517751	228876	280084	8643	148	42487	186389	6403820	69067	501196	12949	1105566	59428	4655614
