@@ -3,6 +3,8 @@
 002_reference
 003_results
 009_deprecated
+err
+log
 #bismark_summary_report.html
 #bismark_summary_report.txt
 #notes
