@@ -9,6 +9,7 @@ sequences_2 = sequences
 sequences_2[,1] = (gsub("R1","R2",sequences[,1]))
 
 for(i in 1:nrow(sequences))
+#for(i in 1:1)
 {
   #gzip extract if neccessary
   if(file.exists(gsub(".gz","",sequences[i,1])) == F)
