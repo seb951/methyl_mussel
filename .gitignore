@@ -1,3 +1,4 @@
+###These are on computecanada cedar
 000_pipeline/slurm*
 001_fastq
 002_reference
@@ -9,3 +10,10 @@ log
 #bismark_summary_report.txt
 #notes
 #README.md
+
+###these are on my laptop (jerry)
+data
+Rcode
+data
+notes
+sequences
